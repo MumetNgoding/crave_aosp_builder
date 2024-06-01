@@ -118,7 +118,7 @@ jobs:
         "CipherOS 14")
           export PROJECTFOLDER="/crave-devspaces/Cipher14"
           export PROJECTID="79"
-          export REPO_INIT="repo init -u https://github.com/CipherOS/android_manifest.git -b fourteen --git-lfs --depth=1"
+          export REPO_INIT="repo init -u https://github.com/CipherOS/android_manifest.git -b fourteen-qpr --git-lfs --depth=1"
         ;;
         "PixelOS 14")
           export PROJECTFOLDER="/crave-devspaces/Pixel14"
